@@ -1,3 +1,6 @@
+#include <mutex>
+#include <memory>
+
 template<typename T>
 class singleton
 {
